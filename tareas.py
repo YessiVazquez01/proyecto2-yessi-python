@@ -108,4 +108,4 @@ def eliminar_tarea(id_tarea):
             raise KeyError(f'No existe una tarea con este codigo: {id_tarea}')
 
 sistemaGestionTareas()
-print(tareas)
+#print(tareas)
